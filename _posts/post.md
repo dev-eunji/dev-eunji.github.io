@@ -1,14 +1,12 @@
 ---
+title:  "test"
+excerpt: "test test"
 
-title: 테스트
-date: 2018-11-24
 categories:
-
-- 나의카테고리
+  - Android
 tags:
-- 태그1
-- 태그2
-
+  - Android
+last_modified_at: 2020-03-21
 ---
 
 # My First Blog Post
