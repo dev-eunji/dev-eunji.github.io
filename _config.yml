@@ -118,6 +118,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+navbar-links:
+  Category:
+    - Android: "/category/Android"
+
 # Site Footer
 footer:
   links:
