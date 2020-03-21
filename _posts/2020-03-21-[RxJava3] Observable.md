@@ -1,15 +1,14 @@
 ---
 title:  "[RxJava3] Observable"
-excerpt: RxJava의 핵심 클래스, Observable.
 
 categories:
   - android
-
 tags:
   - android
   - rxjava
   - rxjava3
   - observable
+  
 last_modified_at: 2020-03-21
 toc: true # table of contents 목차 보여줌.
 ---
