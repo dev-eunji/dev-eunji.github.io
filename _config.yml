@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "EJ's Dev Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -117,11 +117,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
-# Top menu
-main:
-    - title: "Android"
-    url: /docs/Android/
 
 # Site Footer
 footer:
