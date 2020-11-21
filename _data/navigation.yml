@@ -1,7 +1,17 @@
 # main links
 main:
   - title: "Android" # 네비게이션 바에 표시 되는 이름
-    url: "/android/" # 클릭시 이동할 URL
+    url: "/categories/android/" # 클릭시 이동할 URL
+  
+  - title: "Algorithm" 
+    url: "/categories/algorithm/" 
+  
+  - title: "Auto System" 
+    url: "/categories/auto_system/" 
+
+  - title: "Etc" 
+    url: "/categories/etc/" 
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
