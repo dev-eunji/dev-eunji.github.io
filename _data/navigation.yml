@@ -9,8 +9,8 @@ main:
   - title: "Auto System" 
     url: "/categories/auto_system/" 
 
-  - title: "Etc" 
-    url: "/categories/etc/" 
+  - title: "TIL" 
+    url: "/categories/til/" 
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

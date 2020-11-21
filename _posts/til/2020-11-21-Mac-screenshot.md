@@ -1,7 +1,8 @@
 ---
 title:  "[Mac] 맥에서 스크린샷 예쁘게 찍기"
-categories: [Etc]
+categories: [TIL]
 tags:
+  - TIL
   - mac
   - screenshot
   - 스크린샷
