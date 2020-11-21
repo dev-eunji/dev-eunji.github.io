@@ -1,8 +1,7 @@
 ---
 title:  "[RxJava3] Observable"
 
-categories:
-  - android
+categories: [Android]
 tags:
   - android
   - rxjava
@@ -13,9 +12,7 @@ last_modified_at: 2020-03-21
 toc: true # table of contents 목차 보여줌.
 ---
 
-RxJava 의 핵심 중 핵심이라할 수 있는 클래스이자 
-
-데이터 흐름에서 데이터 발행을 담당하는 Observable에 대해서 알아보겠습니다.
+RxJava 의 핵심 중 핵심이라할 수 있는 클래스이자 데이터 흐름에서 데이터 발행을 담당하는 `Observable`에 대해서 알아보겠습니다.
 
 ---
 
