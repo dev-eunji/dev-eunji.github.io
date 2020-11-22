@@ -11,6 +11,9 @@ main:
 
   - title: "TIL" 
     url: "/categories/til/" 
+  
+  - title: "Etc" 
+    url: "/categories/etc/" 
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
