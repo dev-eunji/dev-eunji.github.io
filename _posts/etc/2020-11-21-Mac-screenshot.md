@@ -1,15 +1,11 @@
 ---
-title:  "[Mac] 맥에서 스크린샷 예쁘게 찍기"
-categories: [TIL]
-tags:
-  - TIL
-  - mac
-  - screenshot
-  - 스크린샷
+title: "[Mac] 맥에서 스크린샷 예쁘게 찍기"
+categories: [Etc]
+tags: [android, rxjava, rxjava3, observable]
 last_modified_at: 2020-11-21
-author: eunjilee
+toc: true # table of contents 목차 보여줌.
+comments: true
 ---
-
 
 mac 의 설정 화면들이 *그림자까지 포함된* 예쁜 스크린샷으로 올라와 있는 블로그 포스트들을 보면서
 찍는 방법이 궁금했는데, 생각보다 간단하여 기록하고 공유하고자 한다.
