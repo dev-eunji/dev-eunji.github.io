@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : https-dev-eunji-github-io # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : dev-eunji # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -90,13 +90,12 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "HELLO :)"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "I am Android developer who explores various fields."
-  location         : "Seoul, South"
+  bio              : "퀀트 투자와 업무 자동화에 관심이 있는 안드로이드 개발자입니다."
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
