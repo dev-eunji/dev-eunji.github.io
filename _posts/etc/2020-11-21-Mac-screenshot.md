@@ -1,7 +1,7 @@
 ---
 title: "[Mac] 맥에서 스크린샷 예쁘게 찍기"
 categories: [Etc]
-tags: [android, rxjava, rxjava3, observable]
+tags: [mac, apple, screenshot]
 last_modified_at: 2020-11-21
 toc: true # table of contents 목차 보여줌.
 comments: true
