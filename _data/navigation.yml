@@ -2,7 +2,10 @@
 main:
   - title: "Android" # 네비게이션 바에 표시 되는 이름
     url: "/categories/android/" # 클릭시 이동할 URL
-  
+
+  - title: "CS" 
+    url: "/categories/cs/" 
+
   - title: "Algorithm" 
     url: "/categories/algorithm/" 
   
@@ -14,12 +17,3 @@ main:
   
   - title: "Etc" 
     url: "/categories/etc/" 
-
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
