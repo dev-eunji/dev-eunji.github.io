@@ -557,9 +557,21 @@ body {
    ========================================================================== */
 .posts-list {
   li {
-    line-height: 0.8em;
+    line-height: 1em;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover { /* mouse over link */
+    color: #cc00cc;
   }
   
+  a:active { /* selected link */
+    color: #cc00cc;
+  }
+
   .title-href {
     font-size:20px; 
     color:#5d5d5d; 
