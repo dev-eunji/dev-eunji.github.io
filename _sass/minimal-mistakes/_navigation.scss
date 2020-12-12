@@ -182,11 +182,11 @@
   a {
     display: block;
     margin: 0 1rem;
-    color: $masthead-link-color;
+    color: $title-color;
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: $title-color-hover;
     }
 
     &.site-logo {
@@ -229,6 +229,11 @@
 
     a {
       position: relative;
+      color: $masthead-link-color;
+      
+      &:hover {
+        color: $masthead-link-color-hover;
+      }
 
       &:before {
         content: "";

@@ -78,6 +78,10 @@ $info-color: #3b9cba !default;
 $focus-color: $primary-color !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
 
+/* Page Top Title */
+$title-color: #b300b3 !default;
+$title-color-hover: mix(#000, $title-color, 25%) !default;
+
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
 $yiq-contrasted-light-default: #fff !default;
