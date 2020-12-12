@@ -6,13 +6,15 @@ layout: archive
 
 <ul>
 {% for category in site.categories %}
-  <h2 id="{{category | first}}">{{category | first}}</h2>
+  <h2 id="{{category | first}}" >{{category | first}}</h2>
   {% for posts in category %}
     {% for post in posts %}
       {% if post.url %}
-      <li>
-        <a class="title" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
-        <time>{{ post.date | date:"%F" }}</time> <!-- 요일: {{ post.date | date: "%a" }}. -->
+      <li style="line-height: 0.8em;">
+        <p>
+          <a style="font-size:20px; color:#5d5d5d;" class="title" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+          <time style="font-size:16px; color:#8c8c8c;">{{ post.date | date:"%F" }}</time>
+        </p>
       </li>
       {% endif %}
     {% endfor %}
