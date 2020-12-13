@@ -565,20 +565,20 @@ body {
   }
 
   a:hover { /* mouse over link */
-    color: #cc00cc;
+    color: #a5a5a5;
   }
   
   a:active { /* selected link */
-    color: #cc00cc;
+    color: #a5a5a5;
   }
 
   .title-href {
-    font-size:20px; 
-    color:#5d5d5d; 
+    font-size:18px; 
+    color:#5e5e5e; 
   }
   
-  time {
-    font-size:16px; 
-    color:#8c8c8c;
+  .title-date {
+    font-size:14px; 
+    color:#a5a5a5;
   }
 }
