@@ -10,12 +10,12 @@ layout: archive
   {% for posts in category %}
     {% for post in posts %}
       {% if post.url %}
-      <li>
-        <p>
-          <a class="title-href" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
-          <time>{{ post.date | date:"%F" }}</time>
-        </p>
-      </li>
+      <a class="title-href" href="{{ post.url | prepend: site.url }}">
+        <li>
+          {{ post.title }}
+          <time class="title-date">{{ post.date | date:"%F" }}</time>
+        </li>
+      </a>
       {% endif %}
     {% endfor %}
   {% endfor %}
