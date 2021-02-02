@@ -88,10 +88,7 @@ class MainActivity : AppCompatActivity() {
 
 ---
 
-**바인딩 어댑터 (Custom Binding Adapter)**
-
-- 객체에 한번에 세팅하고 싶을 때
-- 메소드 파라미터를 알아서 찾아줌
+**바인딩 어댑터**
 
 ```kotlin
 object CustomBinding {
@@ -112,6 +109,8 @@ object CustomBinding {
   app:image_url="@{user.profileUrl}"
   app:image_error="@drawable/error_imaage"/>
 ```
+
+<br>
 
 **리스너 바인딩**
 
