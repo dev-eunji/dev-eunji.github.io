@@ -90,6 +90,8 @@ class MainActivity : AppCompatActivity() {
 
 **바인딩 어댑터**
 
+- [참고](https://medium.com/@logishudson0218/bindingadapter-948293769b20)
+
 ```kotlin
 object CustomBinding {
 
