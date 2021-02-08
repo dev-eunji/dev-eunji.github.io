@@ -30,8 +30,14 @@ tvName.text = "name"
 ##### STEP 1. gradle 설정
 
 ```gradle
+// asis
 dataBinding {
-    enabled = true
+  enabled = true
+}
+
+// tobe
+buildFeatures{
+  dataBinding = true
 }
 ```
 
