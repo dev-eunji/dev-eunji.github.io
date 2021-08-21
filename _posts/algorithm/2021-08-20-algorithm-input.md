@@ -55,7 +55,7 @@ fun main(args: Array<String>) = with(Scanner(System.`in`)) {
     val S = nextLine()
 
     // string list
-    val lst = readLine().split(' ')
+    val lst = readLine()?.split(' ')
 
     // int
     val N = nextInt()
@@ -65,6 +65,6 @@ fun main(args: Array<String>) = with(Scanner(System.`in`)) {
     val N2 = nextInt()
 
     // int list
-    val lst = readLine().split(' ').map { it.toInt() }
+    val lst = readLine()?.split(' ')?.map { it.toInt() }
 }
 ```
